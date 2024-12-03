@@ -1,2 +1,2 @@
-# Diffusion-Models-Meet-Multimodality
-This is the official repository for the paper: When Diffusion Models Meet Multimodality: A Survey
+# Diffusion-Models-Meet-AIGC
+This is the official repository for the paper: When Diffusion Models Meet AIGC: A Survey
